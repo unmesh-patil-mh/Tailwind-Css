@@ -22,3 +22,13 @@ tailwindCss/
 ├── postcss.config.js
 └── tailwind.config.js
 ```
+
+## Initalize the Node In Your Project 
+```
+npm init -y
+```
+
+## Install TailwindCss Version 3
+```
+npm install -D tailwindcss@3 postcss autoprefixer
+```
