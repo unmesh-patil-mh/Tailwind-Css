@@ -37,7 +37,7 @@ npm install -D tailwindcss@3 postcss autoprefixer
 ```
 npx tailwindcss init -p
 ```
-This Creates Two Files in Our Project
--> tailwind.config.js
--> postcss.config.js
+This Creates Two Files in Our Project <br>
+-> tailwind.config.js <br>
+-> postcss.config.js <br>
 
