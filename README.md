@@ -51,3 +51,12 @@ module.exports = {
   plugins: [],
 }
 ```
+
+## Create Input CSS File <br>
+📁 src/input.css
+```
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+paste above in input css file
