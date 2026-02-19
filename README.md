@@ -41,3 +41,13 @@ This Creates Two Files in Our Project <br>
 -> tailwind.config.js <br>
 -> postcss.config.js <br>
 
+## Configure Tailwind
+```
+module.exports = {
+  content: ["./*.html"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+```
