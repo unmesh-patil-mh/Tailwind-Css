@@ -7,6 +7,7 @@ This project demonstrates how to manually install and configure Tailwind CSS wit
 ---
 
 ## 📂 Project Structure
+```
 tailwindCss/
 │
 ├── node_modules/
@@ -20,3 +21,4 @@ tailwindCss/
 ├── package.json
 ├── postcss.config.js
 └── tailwind.config.js
+```
