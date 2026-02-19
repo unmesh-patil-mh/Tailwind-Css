@@ -11,13 +11,12 @@ tailwindCss/
 │
 ├── node_modules/
 ├── dist/
-│   └── output.css
+│ └── output.css
 │
 ├── src/
-│   └── input.css
+│ └── input.css
 │
 ├── index.html
 ├── package.json
 ├── postcss.config.js
 └── tailwind.config.js
-
